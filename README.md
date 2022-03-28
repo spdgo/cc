@@ -10,7 +10,8 @@
 
 3.Study And Implementation of Infrastructure As a Service
          First give into about  iaas  then mail.zoho.in create personal email and sign in and go to 
-platform9.com then deploy now [ **half ch shikavla ahe hee vala**]
+platform9.com then login in platform9 then click on your profile box and select my accout then add user and select activation email
+click on next and give roles [ Tenants and Users ( add and show to teacher...) ]
 
 4.Study and implementation of Storage as a Service.  (google drive upload file)
 
